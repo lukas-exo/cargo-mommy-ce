@@ -1,4 +1,4 @@
-# cargo-mommy
+# cargo-mommy (Continuation/Fork)
 
 Mommy's here to support you when running cargo~ ❤️
 
@@ -7,7 +7,7 @@ Mommy's here to support you when running cargo~ ❤️
 Install cargo-mommy like you would any other cargo extension~
 
 ```text
-> cargo install cargo-mommy
+> cargo install <nametobedecided>
 ```
 
 # Usage

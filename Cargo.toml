@@ -2,7 +2,7 @@
 description = "Mommy's here to support you when running cargo~"
 repository = "https://github.com/Gankra/cargo-mommy"
 license = "MIT OR Apache-2.0"
-name = "cargo-mommy"
+name = "cargo-mommy-ce"
 version = "0.2.0"
 edition = "2021"
 

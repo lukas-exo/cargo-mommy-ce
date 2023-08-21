@@ -7,7 +7,7 @@ Mommy's here to support you when running cargo~ ❤️
 Install cargo-mommy like you would any other cargo extension~
 
 ```text
-> cargo install <nametobedecided>
+> cargo install cargo-mommy-ce
 ```
 
 # Usage

@@ -10,7 +10,7 @@ edition = "2021"
 
 [dependencies]
 confique = { version = "0.2", default-features = false, features = ["toml"]}
-dirs = "4"
+dirs = "5.0.1"
 rand = "0.8.5"
-serde = { version = "1.0.151", features = ["derive"] }
-toml = "0.5"
+serde = { version = "1.0.185", features = ["derive"] }
+toml = "0.7.6"

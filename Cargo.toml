@@ -1,9 +1,9 @@
 [package]
 description = "Mommy's here to support you when running cargo~"
-repository = "https://github.com/Gankra/cargo-mommy"
+repository = "https://github.com/lukasfri/cargo-mommy"
 license = "MIT OR Apache-2.0"
 name = "cargo-mommy-ce"
-version = "0.2.0"
+version = "0.2.1"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

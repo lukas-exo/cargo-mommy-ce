@@ -9,12 +9,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-<<<<<<< HEAD
 confique = { version = "0.2", default-features = false, features = ["toml"]}
 dirs = "4"
 rand = "0.8.5"
-=======
-fastrand = "1.8.0"
->>>>>>> 6ae19f83e8bb866d72392a958515b32aea1621c3
 serde = { version = "1.0.151", features = ["derive"] }
 toml = "0.5"

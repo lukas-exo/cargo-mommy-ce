@@ -1,6 +1,6 @@
-# cargo-mommy (Continuation/Fork)
+# Main dev is back
 
-Mommy's here to support you when running cargo~ ❤️
+https://github.com/Gankra/cargo-mommy
 
 # Installation
 
